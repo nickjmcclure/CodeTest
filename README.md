@@ -1,5 +1,5 @@
 # Code Test
-This code test is designed to assess candidates' proficiency with common DevOps tools. It will evaluate your ability to perform tasks such as forking a repository, modifying source code, testing changes, and merging them into your repository. The test involves a simple C# Console application, which, when executed, will run various functions against test data and display the results. A unit test project is provided but not mandatory.
+This code test is designed to assess candidates' proficiency with common tools use by the ITS DevOps team. It will evaluate your ability to perform tasks such as forking a repository, modifying source code, testing changes, and merging them into your repository. The test involves a simple C# Console application, which, when executed, will run various functions against test data and display the results. A unit test project is provided if you'd like to use it.
 ## Step 1
 - Create a fork of the repository in your own GitHub account.
 - Consider making your copy of the repository private so other's can't find it.
