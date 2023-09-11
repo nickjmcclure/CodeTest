@@ -39,7 +39,7 @@ namespace CodeTest
         /// <returns>an array of integers</returns>
         public static int[] GetMatches(int[] input1, int[] input2)
         {
-            int[] output = new int[0];
+            int[] output =  new int[0];            
 
             return output;
         }
